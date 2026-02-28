@@ -1,0 +1,10 @@
+# clangd stuff
+.clangd
+.cache/
+compile_commands.json
+
+# cmake stuff
+Build/
+
+# doxygen stuff
+Docs/
