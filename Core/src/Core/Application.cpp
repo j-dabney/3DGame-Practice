@@ -1,9 +1,11 @@
 #include "Application.h"
-#include "Layer.h"
 
 #include <cassert>
 #include <cstdarg>
 #include <iostream>
+
+#include "Layer.h"
+
 #include <raylib.h>
 
 namespace Core {

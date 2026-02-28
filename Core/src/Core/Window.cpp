@@ -1,6 +1,8 @@
 #include "Window.h"
+
 #include <cassert>
 #include <iostream>
+
 #include <raylib.h>
 
 namespace Core {
